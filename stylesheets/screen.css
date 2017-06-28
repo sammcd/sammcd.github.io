@@ -1,0 +1,62 @@
+/* line 1, ../src/screen.scss */
+body {
+  padding: 60px 0px;
+  font-family: 'San Francisco', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  line-height: 170%;
+}
+
+/* line 8, ../src/screen.scss */
+h1 {
+  font-family: 'San Francisco', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 40pt;
+  color: #001663;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+/* line 15, ../src/screen.scss */
+h1 a:link, h1 a:visited {
+  text-decoration: none;
+  color: #001663;
+}
+/* line 21, ../src/screen.scss */
+h1 a:hover, h1 a:active {
+  text-decoration: none;
+  color: #0000A1;
+}
+
+/* line 27, ../src/screen.scss */
+h2 {
+  font-family: 'San Francisco', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #A7A7A7;
+  font-weight: 300;
+}
+
+/* line 33, ../src/screen.scss */
+h3 {
+  color: #536189;
+}
+
+/* line 37, ../src/screen.scss */
+#wrapper {
+  width: 700px;
+  margin: 0px auto;
+  padding: 0px 50px;
+}
+
+/* line 44, ../src/screen.scss */
+.damion {
+  font-family: 'Damion', cursive;
+  font-size: 16pt;
+}
+
+/* line 49, ../src/screen.scss */
+.footer {
+  color: #616C89;
+  margin-top: 40px;
+}
+
+/* line 54, ../src/screen.scss */
+a {
+  color: #536189;
+}
